@@ -1,0 +1,20 @@
+
+.navbar{
+    margin-right: 400px;
+   
+}
+
+.col-3{
+    width: 300px;
+}
+
+.card{
+    width: 300px;
+    margin-right: 30px;
+   
+}
+.row{
+   display: flex;
+   justify-content: center;
+   margin-top: 200px;
+}
